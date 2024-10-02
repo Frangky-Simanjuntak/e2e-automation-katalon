@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_hai, kasirAjakasirAja sebuah sistem POS_69dfd1</name>
+   <tag></tag>
+   <elementGuidId>2ced06c6-5d64-41e4-bb4b-4c436e1fea05</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-16in75i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=&quot;hai, kasirAjakasirAja sebuah sistem POS simple, mudah, cepat, dan modernsistem p&quot;i >> nth=3</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>467a9ead-10fb-4e3e-8b5b-1c543138abba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-16in75i</value>
+      <webElementGuid>3e32bcfd-bc4e-40e2-b80f-a5f706d61b2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>hai, kasirAjakasirAja sebuah sistem POS simple, mudah, cepat, dan modernsistem penjualan dan pembelian yang simple dengan pengelolan produk multi user. modern dengan dibangun diatas rest api dengan menggunakan nodejs, dapat diakses melalui web maupun perangkat mobile dengan aplikasi yang tersedia dan support dengan PWA.- kasirAjaDev&quot;email&quot; must be a valid emailnama tokoemailpasswordsudah punya akun, login ?daftar</value>
+      <webElementGuid>f7e41665-868f-44a6-a218-a0b355e71f29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;css-1y1lvqg&quot;]/div[@class=&quot;css-16in75i&quot;]</value>
+      <webElementGuid>8018f096-b5a7-4ace-8593-d5c33b26dfa3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div</value>
+      <webElementGuid>9f79f774-db1e-4c22-827e-f97bbe1c6513</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div</value>
+      <webElementGuid>31418cc4-423a-4fa8-a997-7c226f31d14c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'hai, kasirAjakasirAja sebuah sistem POS simple, mudah, cepat, dan modernsistem penjualan dan pembelian yang simple dengan pengelolan produk multi user. modern dengan dibangun diatas rest api dengan menggunakan nodejs, dapat diakses melalui web maupun perangkat mobile dengan aplikasi yang tersedia dan support dengan PWA.- kasirAjaDev&quot;email&quot; must be a valid emailnama tokoemailpasswordsudah punya akun, login ?daftar' or . = 'hai, kasirAjakasirAja sebuah sistem POS simple, mudah, cepat, dan modernsistem penjualan dan pembelian yang simple dengan pengelolan produk multi user. modern dengan dibangun diatas rest api dengan menggunakan nodejs, dapat diakses melalui web maupun perangkat mobile dengan aplikasi yang tersedia dan support dengan PWA.- kasirAjaDev&quot;email&quot; must be a valid emailnama tokoemailpasswordsudah punya akun, login ?daftar')]</value>
+      <webElementGuid>ae6e4bde-b9fd-4827-b02b-4927f5504707</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

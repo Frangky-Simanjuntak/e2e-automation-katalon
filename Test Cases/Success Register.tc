@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Success Register</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b1e96a92-b2ce-4769-a0be-3df534abb39d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b73d7fdb-8a69-4c0a-a047-2ff50580e0a6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'gembira'</defaultValue>
+      <description></description>
+      <id>b73d7fdb-8a69-4c0a-a047-2ff50580e0a6</id>
+      <masked>false</masked>
+      <name>namaToko</name>
+   </variable>
+</TestCaseEntity>
