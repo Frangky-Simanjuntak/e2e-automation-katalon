@@ -31,7 +31,9 @@ WebUI.setText(findTestObject('Object Repository/Page_kasirAja/input_email_email'
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_kasirAja/input_password_password'), 'GY5K4AXHbD8sJ+t/Tw6kaQ==')
 
-WebUI.click(findTestObject('Object Repository/Page_kasirAja/button_daftar'))
+WebUI.click(findTestObject('Page_kasirAja/button_daftar'))
 
-WebUI.click(findTestObject('Object Repository/Page_kasirAja/div_Toko berhasil didaftarkananda dapat men_b3a8bd'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_kasirAja/div_Toko berhasil didaftarkananda dapat men_b3a8bd'))
+
+WebUI.click(findTestObject('Page_kasirAja/div_Toko berhasil didaftarkananda dapat men_b3a8bd'))
 
